@@ -18,6 +18,8 @@ Since this image is using basic authentication via HTTPs to secure your docker r
 
 ## Usage
 
+![Screenrecording: How to build and run the private docker-registry with basic authentication](documentation/building-and-running-docker-registry-with-authentication.gif)
+
 ### 1. Build the reverse proxy image
 
 Build the reverse-proxy image:
